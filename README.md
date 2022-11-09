@@ -2,7 +2,7 @@
 
 Análise das letras de funks estilo proibidão utilizando técnicas de processamento de linguagem natural - NLP.
 
-Projeto realizado para a disciplina de Inteligência Artificial da Faculdade de Tecnologia de São Paulo - FATEC SP
+Projeto de NLP realizado para a disciplina de Inteligência Artificial da Faculdade de Tecnologia de São Paulo - FATEC SP
 
 #### Fontes
 Os dados utilizados nessa análise são oriundos da pesquisa base da tese de Doutorado "Trilha sonora da guerra": análise das facções
